@@ -145,6 +145,7 @@ wsl -d Ubuntu-24.04 -e bash -c "free -h"
 
 - **OS:** Windows 10/11 with WSL2
 - **WSL Distribution:** Ubuntu 24.04
+- **System RAM:** 32GB (28GB allocated to WSL)
 - **GPU:** NVIDIA GeForce RTX 4070 Ti SUPER (16GB VRAM)
 - **ComfyUI Version:** 0.3.75
 - **PyTorch:** 2.9.1+cu128
